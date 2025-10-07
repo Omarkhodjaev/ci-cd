@@ -1,4 +1,4 @@
-name: CI/CD to AWS Lightsail
+name: CI/CD to AWS Lightsails
 
 on:
   push:
